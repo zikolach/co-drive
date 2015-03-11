@@ -1,0 +1,1634 @@
+<Track name="Track" vehicle_id="1014" id="813372">
+	<Node name="node" vdop="1.8" hdop="1.1" satelites="8" altitude="324.5"
+		heading="0.0" speed="0.00" latitude="48.235175" longitude="13.027997"
+		timestamp="2014-10-29T14:06:13.000+01:00" id="8775304">
+		<Xfcd value="0" param="accel" />
+		<Xfcd value="0" param="arcn" />
+		<Xfcd value="10.0" param="atmp" />
+		<Xfcd value="0" param="bast" />
+		<Xfcd value="0" param="belt" />
+		<Xfcd value="0" param="brfl" />
+		<Xfcd value="0" param="brln" />
+		<Xfcd value="0" param="brlt" />
+		<Xfcd value="0" param="clnt" />
+		<Xfcd value="0" param="clut" />
+		<Xfcd value="0" param="crre" />
+		<Xfcd value="1" param="dclst" />
+		<Xfcd value="1365" param="delg" />
+		<Xfcd value="0" param="dind" />
+		<Xfcd value="261" param="dost" />
+		<Xfcd value="0" param="dswr" />
+		<Xfcd value="5592405" param="dwlg" />
+		<Xfcd value="0" param="espd" />
+		<Xfcd value="261" param="fcon" />
+		<Xfcd value="42" param="flev" />
+		<Xfcd value="0" param="ftgs" />
+		<Xfcd value="1" param="hbrk" />
+		<Xfcd value="0" param="ignt" />
+		<Xfcd value="35470" param="kmrd" />
+		<Xfcd value="5461" param="lgst" />
+		<Xfcd value="0" param="rain" />
+		<Xfcd value="0" param="rwht" />
+		<Xfcd value="31000" param="sdma" />
+		<Xfcd value="17000" param="sdmi" />
+		<Xfcd value="0" param="speed" />
+		<Xfcd value="720" param="stma" />
+		<Xfcd value="360" param="stmi" />
+		<Xfcd value="-35.0" param="stwa" />
+		<Xfcd value="0" param="wafl" />
+		<Xfcd value="0" param="wiper" />
+		<Xfcd value="1029" param="wist" />
+		<Xfcd value="0" param="wrlt" />
+		<State value="12.67" param="vbat" />
+	</Node>
+	<!-- Fahrer steigt ein, Zündung wird eingeschaltet, diverse Warnleuchten 
+		und Fehlerleuchten gehen kurzzeitig an, Fahrer schaltet Licht ein -->
+	<Node name="node" vdop="1.8" hdop="1.1" satelites="8" altitude="324.5"
+		heading="0.0" speed="0.00" latitude="48.235175" longitude="13.027997"
+		timestamp="2014-10-29T14:06:17.000+01:00" id="8775311">
+		<Xfcd value="263" pam="dost" />
+	</Node>
+	<Node name="node" vdop="1.8" hdop="1.1" satelites="8" altitude="324.5"
+		heading="0.0" speed="0.00" latitude="48.235175" longitude="13.027997"
+		timestamp="2014-10-29T14:06:18.000+01:00" id="8775317">
+		<Xfcd value="5592541" param="dwlg" />
+	</Node>
+	<Node name="node" vdop="1.8" hdop="1.1" satelites="8" altitude="324.5"
+		heading="0.0" speed="0.00" latitude="48.235175" longitude="13.027997"
+		timestamp="2014-10-29T14:06:19.000+01:00" id="8775323">
+		<Xfcd value="5592533" param="dwlg" />
+	</Node>
+	<Node name="node" vdop="1.8" hdop="1.1" satelites="8" altitude="324.5"
+		heading="0.0" speed="0.00" latitude="48.235175" longitude="13.027997"
+		timestamp="2014-10-29T14:06:20.000+01:00" id="8775329">
+		<Xfcd value="5592405" param="dwlg" />
+	</Node>
+	<Node name="node" vdop="1.8" hdop="1.1" satelites="8" altitude="324.5"
+		heading="0.0" speed="0.00" latitude="48.235175" longitude="13.027997"
+		timestamp="2014-10-29T14:06:21.000+01:00" id="8775334">
+		<Xfcd value="261" param="dost" />
+	</Node>
+	<Node name="node" vdop="1.8" hdop="1.1" satelites="8" altitude="324.5"
+		heading="0.0" speed="0.00" latitude="48.235175" longitude="13.027997"
+		timestamp="2014-10-29T14:06:23.000+01:00" id="8775341">
+		<Xfcd value="1" param="brlt" />
+	</Node>
+	<Node name="node" vdop="1.8" hdop="1.1" satelites="8" altitude="324.5"
+		heading="0.0" speed="0.00" latitude="48.235175" longitude="13.027997"
+		timestamp="2014-10-29T14:06:26.000+01:00" id="8775348">
+		<Xfcd value="1" param="ignt" />
+		<Xfcd value="5471" param="lgst" />
+	</Node>
+	<!-- Achtung: Bremsanlagenfehler und Lenkunterstützungsfehler -->
+	<Node name="node" vdop="1.8" hdop="1.1" satelites="8" altitude="324.5"
+		heading="0.0" speed="0.00" latitude="48.235175" longitude="13.027997"
+		timestamp="2014-10-29T14:06:27.000+01:00" id="8775353">
+		<Xfcd value="1361" param="belt" />
+		<Xfcd value="0" param="crre" />
+		<Xfcd value="1879" param="delg" />
+		<Xfcd value="0" param="dswr" />
+		<Xfcd value="7689727" param="dwlg" />
+	</Node>
+	<Node name="node" vdop="1.8" hdop="1.1" satelites="8" altitude="324.5"
+		heading="0.0" speed="0.00" latitude="48.235175" longitude="13.027997"
+		timestamp="2014-10-29T14:06:28.000+01:00" id="8775359">
+		<Xfcd value="7689719" param="dwlg" />
+	</Node>
+	<Node name="node" vdop="1.8" hdop="1.1" satelites="8" altitude="324.5"
+		heading="0.0" speed="0.00" latitude="48.235175" longitude="13.027997"
+		timestamp="2014-10-29T14:06:29.000+01:00" id="8775367">
+		<Xfcd value="7689591" param="dwlg" />
+	</Node>
+	<!-- Bremsanlagenfehler und Lenkunterstützungsfehler wurden noch vor der 
+		Fahrt repaiert -->
+	<Node name="node" vdop="1.8" hdop="1.1" satelites="8" altitude="324.5"
+		heading="0.0" speed="0.00" latitude="48.235175" longitude="13.027997"
+		timestamp="2014-10-29T14:06:30.000+01:00" id="8775371">
+		<Xfcd value="1365" param="delg" />
+		<Xfcd value="7689557" param="dwlg" />
+	</Node>
+	<!-- Motor wird gestartet(Leerlaufdrehzahl), Fahrer gurtet sich an -->
+	<Node name="node" vdop="1.8" hdop="1.1" satelites="8" altitude="324.5"
+		heading="0.0" speed="0.00" latitude="48.235175" longitude="13.027997"
+		timestamp="2014-10-29T14:06:32.000+01:00" id="8775375">
+		<Xfcd value="5592405" param="dwlg" />
+		<Xfcd value="822" param="espd" />
+		<Xfcd value="0" param="fcon" />
+	</Node>
+	<!-- Fahrer löst Handbremse und fährt los -->
+	<Node name="node" vdop="1.8" hdop="1.1" satelites="8" altitude="324.5"
+		heading="0.0" speed="0.00" latitude="48.235175" longitude="13.027997"
+		timestamp="2014-10-29T14:06:42.000+01:00" id="8775398">
+		<Xfcd value="1363" param="belt" />
+		<Xfcd value="0" param="brlt" />
+		<Xfcd value="1100" param="espd" />
+		<Xfcd value="0" param="hbrk" />
+		<Xfcd value="5" param="fcon" />
+	</Node>
+	<Node name="node" vdop="1.8" hdop="1.1" satelites="8" altitude="324.5"
+		heading="0.0" speed="0.00" latitude="48.235175" longitude="13.027997"
+		timestamp="2014-10-29T14:06:45.000+01:00" id="8775405">
+		<Xfcd value="1" param="brlt" />
+		<Xfcd value="1095" param="espd" />
+		<Xfcd value="5" param="fcon" />
+		<Xfcd value="2" param="speed" />
+		<Xfcd value="30.0" param="stwa" />
+	</Node>
+	<Node name="node" vdop="1.8" hdop="1.1" satelites="8" altitude="324.5"
+		heading="0.0" speed="0.00" latitude="48.235175" longitude="13.027997"
+		timestamp="2014-10-29T14:06:47.000+01:00" id="8775410">
+		<Xfcd value="0" param="brlt" />
+		<Xfcd value="1033" param="espd" />
+		<Xfcd value="5" param="fcon" />
+		<Xfcd value="17.0" param="stwa" />
+	</Node>
+	<Node name="node" vdop="1.8" hdop="1.1" satelites="8" altitude="324.5"
+		heading="0.0" speed="0.00" latitude="48.235175" longitude="13.027997"
+		timestamp="2014-10-29T14:06:52.000+01:00" id="8775424">
+		<Xfcd value="1" param="brlt" />
+		<Xfcd value="1024" param="espd" />
+		<Xfcd value="5" param="fcon" />
+		<Xfcd value="4" param="speed" />
+		<Xfcd value="463.0" param="stwa" />
+	</Node>
+	<Node name="node" vdop="1.8" hdop="1.1" satelites="8" altitude="324.5"
+		heading="0.0" speed="0.00" latitude="48.235175" longitude="13.027997"
+		timestamp="2014-10-29T14:06:53.000+01:00" id="8775430">
+		<Xfcd value="0" param="brlt" />
+		<Xfcd value="1015" param="espd" />
+		<Xfcd value="6" param="fcon" />
+		<Xfcd value="0" param="speed" />
+		<Xfcd value="206.0" param="stwa" />
+	</Node>
+	<!-- Hinten raus sieht man ja gar nichts...Heckscheibenheizung einschalten -->
+	<Node name="node" vdop="1.8" hdop="1.1" satelites="8" altitude="324.5"
+		heading="0.0" speed="0.00" latitude="48.235175" longitude="13.027997"
+		timestamp="2014-10-29T14:06:58.000+01:00" id="8775440">
+		<Xfcd value="0" param="dclst" />
+		<Xfcd value="1988" param="espd" />
+		<Xfcd value="6" param="fcon" />
+		<Xfcd value="18" param="speed" />
+		<Xfcd value="-13.0" param="stwa" />
+		<Xfcd value="1" param="rwht" />
+	</Node>
+	<Node name="node" vdop="1.8" hdop="1.1" satelites="8" altitude="380.0"
+		heading="155.1" speed="31.30" latitude="48.234643" longitude="13.027723"
+		timestamp="2014-10-29T14:07:04.000+01:00" id="8775454">
+		<Xfcd value="1322" param="espd" />
+		<Xfcd value="6" param="fcon" />
+		<Xfcd value="5461" param="lgst" />
+		<Xfcd value="30" param="speed" />
+		<Xfcd value="1.0" param="stwa" />
+		<State value="1" param="move" />
+		<State value="1" param="trsf" />
+	</Node>
+	<Node name="node" vdop="1.8" hdop="1.1" satelites="8" altitude="375.1"
+		heading="137.4" speed="27.60" latitude="48.234455" longitude="13.029075"
+		timestamp="2014-10-29T14:07:19.000+01:00" id="8775482">
+		<Xfcd value="1" param="dind" />
+		<Xfcd value="1472" param="espd" />
+		<Xfcd value="3" param="fcon" />
+		<Xfcd value="26" param="speed" />
+		<Xfcd value="5.0" param="stwa" />
+	</Node>
+	<Node name="node" vdop="1.8" hdop="1.1" satelites="8" altitude="374.6"
+		heading="151.8" speed="27.00" latitude="48.234398" longitude="13.029123"
+		timestamp="2014-10-29T14:07:20.000+01:00" id="8775487">
+		<Xfcd value="1" param="brlt" />
+		<Xfcd value="1231" param="espd" />
+		<Xfcd value="2" param="fcon" />
+		<Xfcd value="21" param="speed" />
+		<Xfcd value="2.0" param="stwa" />
+	</Node>
+	<Node name="node" vdop="1.8" hdop="1.1" satelites="8" altitude="373.9"
+		heading="156.0" speed="26.70" latitude="48.234337" longitude="13.029160"
+		timestamp="2014-10-29T14:07:21.000+01:00" id="8775494">
+		<Xfcd value="0" param="brlt" />
+		<Xfcd value="813" param="espd" />
+		<Xfcd value="2" param="fcon" />
+		<Xfcd value="8" param="speed" />
+	</Node>
+	<Node name="node" vdop="1.8" hdop="1.1" satelites="8" altitude="372.6"
+		heading="97.8" speed="17.60" latitude="48.234172" longitude="13.029315"
+		timestamp="2014-10-29T14:07:28.000+01:00" id="8775505">
+		<Xfcd value="0" param="dind" />
+		<Xfcd value="2727" param="espd" />
+		<Xfcd value="7" param="fcon" />
+		<Xfcd value="34" param="speed" />
+		<Xfcd value="-15.0" param="stwa" />
+	</Node>
+	<!-- Waschwasser unter min. Schnell nachfüllen -->
+	<Node name="node" vdop="1.7" hdop="1.1" satelites="9" altitude="369.8"
+		heading="88.8" speed="45.00" latitude="48.234487" longitude="13.030990"
+		timestamp="2014-10-29T14:07:39.000+01:00" id="8775522">
+		<Xfcd value="1" param="brlt" />
+		<Xfcd value="1314" param="espd" />
+		<Xfcd value="5" param="fcon" />
+		<Xfcd value="40" param="speed" />
+		<Xfcd value="4.0" param="stwa" />
+		<Xfcd value="1" param="wafl" />
+		<Xfcd value="5723477" param="dwlg" />
+	</Node>
+	<Node name="node" vdop="1.7" hdop="1.1" satelites="9" altitude="369.9"
+		heading="94.0" speed="43.90" latitude="48.234478" longitude="13.031155"
+		timestamp="2014-10-29T14:07:40.000+01:00" id="8775527">
+		<Xfcd value="0" param="brlt" />
+		<Xfcd value="1113" param="espd" />
+		<Xfcd value="1" param="fcon" />
+		<Xfcd value="34" param="speed" />
+		<Xfcd value="0.0" param="stwa" />
+	</Node>
+	<Node name="node" vdop="1.7" hdop="1.1" satelites="9" altitude="372.1"
+		heading="83.1" speed="29.60" latitude="48.234292" longitude="13.032087"
+		timestamp="2014-10-29T14:07:48.000+01:00" id="8775543">
+		<Xfcd value="2" param="dind" />
+		<Xfcd value="1767" param="espd" />
+		<Xfcd value="3" param="fcon" />
+		<Xfcd value="30" param="speed" />
+		<Xfcd value="-126.0" param="stwa" />
+	</Node>
+	<Node name="node" vdop="1.7" hdop="1.1" satelites="9" altitude="372.7"
+		heading="346.7" speed="33.70" latitude="48.234618" longitude="13.032220"
+		timestamp="2014-10-29T14:07:53.000+01:00" id="8775554">
+		<Xfcd value="0" param="dind" />
+		<Xfcd value="1857" param="espd" />
+		<Xfcd value="6" param="fcon" />
+		<Xfcd value="43" param="speed" />
+		<Xfcd value="6.0" param="stwa" />
+	</Node>
+	<Node name="node" vdop="1.4" hdop="0.9" satelites="10" altitude="371.8"
+		heading="20.0" speed="64.30" latitude="48.236630" longitude="13.033057"
+		timestamp="2014-10-29T14:08:07.000+01:00" id="8775572">
+		<Xfcd value="1" param="brlt" />
+		<Xfcd value="1301" param="espd" />
+		<Xfcd value="7" param="fcon" />
+		<Xfcd value="59" param="speed" />
+		<Xfcd value="0.0" param="stwa" />
+	</Node>
+	<Node name="node" vdop="1.4" hdop="0.9" satelites="10" altitude="371.8"
+		heading="20.5" speed="63.00" latitude="48.236777" longitude="13.033142"
+		timestamp="2014-10-29T14:08:08.000+01:00" id="8775576">
+		<Xfcd value="0" param="brlt" />
+		<Xfcd value="1391" param="espd" />
+		<Xfcd value="54" param="speed" />
+	</Node>
+	<Node name="node" vdop="1.4" hdop="0.9" satelites="10" altitude="371.9"
+		heading="23.4" speed="49.70" latitude="48.237768" longitude="13.033762"
+		timestamp="2014-10-29T14:08:16.000+01:00" id="8775592">
+		<Xfcd value="1" param="brlt" />
+		<Xfcd value="1212" param="espd" />
+		<Xfcd value="0" param="fcon" />
+		<Xfcd value="35471" param="kmrd" />
+		<Xfcd value="46" param="speed" />
+		<Xfcd value="3.0" param="stwa" />
+	</Node>
+	<!-- Waschwasser wurde nachgefüllt -->
+	<Node name="node" vdop="1.4" hdop="0.9" satelites="10" altitude="372.2"
+		heading="27.3" speed="45.70" latitude="48.238083" longitude="13.033997"
+		timestamp="2014-10-29T14:08:19.000+01:00" id="8775603">
+		<Xfcd value="0" param="brlt" />
+		<Xfcd value="1152" param="espd" />
+		<Xfcd value="32" param="speed" />
+		<Xfcd value="0" param="wafl" />
+		<Xfcd value="5592405" param="dwlg" />
+	</Node>
+	<Node name="node" vdop="1.4" hdop="0.9" satelites="10" altitude="361.7"
+		heading="54.5" speed="60.00" latitude="48.240220" longitude="13.037257"
+		timestamp="2014-10-29T14:08:49.000+01:00" id="8775644">
+		<Xfcd value="1511" param="espd" />
+		<Xfcd value="3" param="fcon" />
+		<Xfcd value="57" param="speed" />
+		<Xfcd value="-31.0" param="stwa" />
+	</Node>
+	<Node name="node" vdop="1.4" hdop="0.9" satelites="10" altitude="362.2"
+		heading="34.7" speed="57.40" latitude="48.240767" longitude="13.037935"
+		timestamp="2014-10-29T14:08:54.000+01:00" id="8775655">
+		<Xfcd value="1" param="dind" />
+		<Xfcd value="1638" param="espd" />
+		<Xfcd value="6" param="fcon" />
+		<Xfcd value="62" param="speed" />
+		<Xfcd value="16.0" param="stwa" />
+	</Node>
+	<Node name="node" vdop="1.3" hdop="0.9" satelites="10" altitude="362.0"
+		heading="57.1" speed="62.60" latitude="48.240960" longitude="13.038278"
+		timestamp="2014-10-29T14:08:56.000+01:00" id="8775660">
+		<Xfcd value="0" param="dind" />
+		<Xfcd value="4179" param="espd" />
+		<Xfcd value="23" param="fcon" />
+		<Xfcd value="71" param="speed" />
+		<Xfcd value="4.0" param="stwa" />
+	</Node>
+	<Node name="node" vdop="1.3" hdop="0.9" satelites="10" altitude="360.8"
+		heading="59.3" speed="68.00" latitude="48.242087" longitude="13.041288"
+		timestamp="2014-10-29T14:09:09.000+01:00" id="8775680">
+		<Xfcd value="1" param="brlt" />
+		<Xfcd value="1401" param="espd" />
+		<Xfcd value="3" param="fcon" />
+		<Xfcd value="63" param="speed" />
+		<Xfcd value="1.0" param="stwa" />
+	</Node>
+	<Node name="node" vdop="1.3" hdop="0.9" satelites="10" altitude="360.6"
+		heading="59.3" speed="66.00" latitude="48.242257" longitude="13.041713"
+		timestamp="2014-10-29T14:09:11.000+01:00" id="8775685">
+		<Xfcd value="0" param="brlt" />
+		<Xfcd value="1318" param="espd" />
+		<Xfcd value="56" param="speed" />
+	</Node>
+	<Node name="node" vdop="1.3" hdop="0.9" satelites="10" altitude="355.9"
+		heading="59.7" speed="88.70" latitude="48.244943" longitude="13.048533"
+		timestamp="2014-10-29T14:09:38.000+01:00" id="8775722">
+		<Xfcd value="1" param="dind" />
+		<Xfcd value="1846" param="espd" />
+		<Xfcd value="6" param="fcon" />
+		<Xfcd value="35472" param="kmrd" />
+		<Xfcd value="84" param="speed" />
+	</Node>
+	<!-- Heckscheibenheizung wieder ausschalten -->
+	<Node name="node" vdop="1.3" hdop="0.9" satelites="10" altitude="355.4"
+		heading="59.1" speed="86.00" latitude="48.245162" longitude="13.049090"
+		timestamp="2014-10-29T14:09:40.000+01:00" id="8775730">
+		<Xfcd value="0" param="dind" />
+		<Xfcd value="1860" param="espd" />
+		<Xfcd value="6" param="fcon" />
+		<Xfcd value="-2.0" param="stwa" />
+		<Xfcd value="0" param="rwht" />
+	</Node>
+	<Node name="node" vdop="1.3" hdop="0.9" satelites="10" altitude="356.1"
+		heading="75.0" speed="89.50" latitude="48.248313" longitude="13.057697"
+		timestamp="2014-10-29T14:10:10.000+01:00" id="8775772">
+		<Xfcd value="1968" param="espd" />
+		<Xfcd value="6" param="fcon" />
+		<Xfcd value="35473" param="kmrd" />
+		<Xfcd value="89" param="speed" />
+		<Xfcd value="1.0" param="stwa" />
+	</Node>
+	<Node name="node" vdop="1.3" hdop="0.9" satelites="10" altitude="355.3"
+		heading="60.9" speed="94.50" latitude="48.251203" longitude="13.067128"
+		timestamp="2014-10-29T14:10:40.000+01:00" id="8775811">
+		<Xfcd value="2062" param="espd" />
+		<Xfcd value="6" param="fcon" />
+		<Xfcd value="35474" param="kmrd" />
+		<Xfcd value="93" param="speed" />
+	</Node>
+	<Node name="node" vdop="1.3" hdop="0.9" satelites="10" altitude="357.3"
+		heading="60.7" speed="86.70" latitude="48.252087" longitude="13.069515"
+		timestamp="2014-10-29T14:10:48.000+01:00" id="8775826">
+		<Xfcd value="1" param="brlt" />
+		<Xfcd value="1743" param="espd" />
+		<Xfcd value="2" param="fcon" />
+		<Xfcd value="79" param="speed" />
+	</Node>
+	<Node name="node" vdop="1.3" hdop="0.9" satelites="10" altitude="357.7"
+		heading="60.6" speed="80.90" latitude="48.252385" longitude="13.070307"
+		timestamp="2014-10-29T14:10:51.000+01:00" id="8775833">
+		<Xfcd value="0" param="brlt" />
+		<Xfcd value="1550" param="espd" />
+		<Xfcd value="71" param="speed" />
+	</Node>
+	<!-- Fahrer wird müde! -->
+	<Node name="node" vdop="1.3" hdop="0.9" satelites="10" altitude="353.0"
+		heading="94.9" speed="69.00" latitude="48.253863" longitude="13.077878"
+		timestamp="2014-10-29T14:11:21.000+01:00" id="8775871">
+		<Xfcd value="1473" param="espd" />
+		<Xfcd value="2" param="fcon" />
+		<Xfcd value="66" param="speed" />
+		<Xfcd value="4.0" param="stwa" />
+		<Xfcd value="1" param="ftgs" />
+	</Node>
+	<!-- Fahrer wird seeehr müde! -->
+	<Node name="node" vdop="1.3" hdop="0.9" satelites="10" altitude="361.9"
+		heading="108.6" speed="74.50" latitude="48.252068" longitude="13.085705"
+		timestamp="2014-10-29T14:11:51.000+01:00" id="8775916">
+		<Xfcd value="1567" param="espd" />
+		<Xfcd value="6" param="fcon" />
+		<Xfcd value="35475" param="kmrd" />
+		<Xfcd value="70" param="speed" />
+		<Xfcd value="-2.0" param="stwa" />
+		<Xfcd value="2" param="ftgs" />
+	</Node>
+	<Node name="node" vdop="1.3" hdop="0.9" satelites="10" altitude="368.0"
+		heading="81.3" speed="68.30" latitude="48.252103" longitude="13.091102"
+		timestamp="2014-10-29T14:12:12.000+01:00" id="8775951">
+		<Xfcd value="1" param="brlt" />
+		<Xfcd value="1423" param="espd" />
+		<Xfcd value="3" param="fcon" />
+		<Xfcd value="64" param="speed" />
+		<Xfcd value="1.0" param="stwa" />
+		<Xfcd value="6116693" param="dwlgs" />
+		<Xfcd value="0" param="ftgs" />
+	</Node>
+	<Node name="node" vdop="1.3" hdop="0.9" satelites="10" altitude="368.2"
+		heading="80.0" speed="64.50" latitude="48.252185" longitude="13.091830"
+		timestamp="2014-10-29T14:12:15.000+01:00" id="8775959">
+		<Xfcd value="0" param="brlt" />
+		<Xfcd value="1391" param="espd" />
+		<Xfcd value="53" param="speed" />
+		<Xfcd value="6116693" param="dwlgs" />
+		<Xfcd value="-2.0" param="stwa" />
+	</Node>
+	<Node name="node" vdop="1.3" hdop="0.9" satelites="10" altitude="367.2"
+		heading="74.7" speed="48.70" latitude="48.252647" longitude="13.094600"
+		timestamp="2014-10-29T14:12:30.000+01:00" id="8775985">
+		<Xfcd value="1" param="brlt" />
+		<Xfcd value="1209" param="espd" />
+		<Xfcd value="1" param="fcon" />
+		<Xfcd value="35476" param="kmrd" />
+		<Xfcd value="46" param="speed" />
+		<Xfcd value="8213845" param="dwlgs" />
+		<Xfcd value="3.0" param="stwa" />
+	</Node>
+	<Node name="node" vdop="1.3" hdop="0.9" satelites="10" altitude="366.8"
+		heading="77.3" speed="44.20" latitude="48.252728" longitude="13.095103"
+		timestamp="2014-10-29T14:12:33.000+01:00" id="8775995">
+		<Xfcd value="0" param="brlt" />
+		<Xfcd value="1025" param="espd" />
+		<Xfcd value="27" param="speed" />
+		<Xfcd value="5592405" param="dwlgs" />
+		<Xfcd value="9.0" param="stwa" />
+	</Node>
+	<Node name="node" vdop="1.3" hdop="0.9" satelites="10" altitude="365.0"
+		heading="64.2" speed="58.20" latitude="48.253625" longitude="13.100267"
+		timestamp="2014-10-29T14:13:03.000+01:00" id="8776042">
+		<Xfcd value="1500" param="espd" />
+		<Xfcd value="4" param="fcon" />
+		<Xfcd value="56" param="speed" />
+		<Xfcd value="1.0" param="stwa" />
+	</Node>
+	<!-- Fahrer schaltet die Klimaanlage ein -->
+	<Node name="node" vdop="1.3" hdop="0.9" satelites="10" altitude="362.0"
+		heading="60.7" speed="79.50" latitude="48.256105" longitude="13.107250"
+		timestamp="2014-10-29T14:13:33.000+01:00" id="8776094">
+		<Xfcd value="1" param="arcn" />
+		<Xfcd value="1748" param="espd" />
+		<Xfcd value="6" param="fcon" />
+		<Xfcd value="35477" param="kmrd" />
+		<Xfcd value="79" param="speed" />
+		<Xfcd value="11.0" param="stwa" />
+	</Node>
+	<Node name="node" vdop="1.3" hdop="0.9" satelites="10" altitude="361.8"
+		heading="69.2" speed="77.20" latitude="48.258457" longitude="13.115203"
+		timestamp="2014-10-29T14:14:03.000+01:00" id="8776146">
+		<Xfcd value="1692" param="espd" />
+		<Xfcd value="4" param="fcon" />
+		<Xfcd value="76" param="speed" />
+		<Xfcd value="2.0" param="stwa" />
+	</Node>
+	<Node name="node" vdop="1.3" hdop="0.9" satelites="10" altitude="361.9"
+		heading="69.3" speed="77.20" latitude="48.258523" longitude="13.115473"
+		timestamp="2014-10-29T14:14:04.000+01:00" id="8776151">
+		<Xfcd value="1" param="brlt" />
+		<Xfcd value="1639" param="espd" />
+		<Xfcd value="3" param="fcon" />
+		<Xfcd value="74" param="speed" />
+	</Node>
+	<Node name="node" vdop="1.3" hdop="0.9" satelites="10" altitude="362.1"
+		heading="69.0" speed="72.50" latitude="48.258722" longitude="13.116253"
+		timestamp="2014-10-29T14:14:07.000+01:00" id="8776163">
+		<Xfcd value="0" param="brlt" />
+		<Xfcd value="1287" param="espd" />
+		<Xfcd value="0" param="fcon" />
+		<Xfcd value="59" param="speed" />
+	</Node>
+	<Node name="node" vdop="1.3" hdop="0.9" satelites="10" altitude="363.3"
+		heading="90.9" speed="70.50" latitude="48.259362" longitude="13.122720"
+		timestamp="2014-10-29T14:14:37.000+01:00" id="8776210">
+		<Xfcd value="1541" param="espd" />
+		<Xfcd value="3" param="fcon" />
+		<Xfcd value="35478" param="kmrd" />
+		<Xfcd value="70" param="speed" />
+		<Xfcd value="-2.0" param="stwa" />
+	</Node>
+	<Node name="node" vdop="1.3" hdop="0.9" satelites="10" altitude="360.2"
+		heading="88.4" speed="55.60" latitude="48.259435" longitude="13.129653"
+		timestamp="2014-10-29T14:15:07.000+01:00" id="8776258">
+		<Xfcd value="1454" param="espd" />
+		<Xfcd value="2" param="fcon" />
+		<Xfcd value="55" param="speed" />
+		<Xfcd value="-5.0" param="stwa" />
+	</Node>
+	<Node name="node" vdop="1.3" hdop="0.9" satelites="10" altitude="358.4"
+		heading="105.4" speed="63.90" latitude="48.259547" longitude="13.136162"
+		timestamp="2014-10-29T14:15:37.000+01:00" id="8776301">
+		<Xfcd value="10.5" param="atmp" />
+		<Xfcd value="1704" param="espd" />
+		<Xfcd value="3" param="fcon" />
+		<Xfcd value="35479" param="kmrd" />
+		<Xfcd value="64" param="speed" />
+		<Xfcd value="16.0" param="stwa" />
+	</Node>
+	<Node name="node" vdop="1.1" hdop="0.8" satelites="11" altitude="357.2"
+		heading="118.6" speed="52.60" latitude="48.256715" longitude="13.141753"
+		timestamp="2014-10-29T14:16:07.000+01:00" id="8776344">
+		<Xfcd value="1379" param="espd" />
+		<Xfcd value="2" param="fcon" />
+		<Xfcd value="51" param="speed" />
+		<Xfcd value="-2.0" param="stwa" />
+	</Node>
+	<Node name="node" vdop="1.1" hdop="0.8" satelites="11" altitude="357.3"
+		heading="143.2" speed="51.10" latitude="48.254860" longitude="13.146507"
+		timestamp="2014-10-29T14:16:37.000+01:00" id="8776386">
+		<Xfcd value="1361" param="espd" />
+		<Xfcd value="2" param="fcon" />
+		<Xfcd value="35480" param="kmrd" />
+		<Xfcd value="2.0" param="stwa" />
+	</Node>
+	<Node name="node" vdop="1.1" hdop="0.8" satelites="11" altitude="358.1"
+		heading="127.0" speed="70.20" latitude="48.252058" longitude="13.150785"
+		timestamp="2014-10-29T14:17:07.000+01:00" id="8776424">
+		<Xfcd value="1568" param="espd" />
+		<Xfcd value="4" param="fcon" />
+		<Xfcd value="71" param="speed" />
+		<Xfcd value="1.0" param="stwa" />
+	</Node>
+	<Node name="node" vdop="1.0" hdop="0.8" satelites="11" altitude="357.7"
+		heading="71.6" speed="68.50" latitude="48.251168" longitude="13.158310"
+		timestamp="2014-10-29T14:17:37.000+01:00" id="8776466">
+		<Xfcd value="1477" param="espd" />
+		<Xfcd value="3" param="fcon" />
+		<Xfcd value="41" param="flev" />
+		<Xfcd value="35481" param="kmrd" />
+		<Xfcd value="67" param="speed" />
+		<Xfcd value="-5.0" param="stwa" />
+	</Node>
+	<Node name="node" vdop="1.0" hdop="0.8" satelites="11" altitude="357.8"
+		heading="69.3" speed="68.20" latitude="48.251228" longitude="13.158550"
+		timestamp="2014-10-29T14:17:38.000+01:00" id="8776471">
+		<Xfcd value="1" param="brlt" />
+		<Xfcd value="1413" param="espd" />
+		<Xfcd value="0" param="fcon" />
+		<Xfcd value="64" param="speed" />
+		<Xfcd value="-2.0" param="stwa" />
+	</Node>
+	<Node name="node" vdop="1.0" hdop="0.8" satelites="11" altitude="357.8"
+		heading="67.4" speed="67.50" latitude="48.251293" longitude="13.158785"
+		timestamp="2014-10-29T14:17:39.000+01:00" id="8776480">
+		<Xfcd value="0" param="brlt" />
+		<Xfcd value="1361" param="espd" />
+		<Xfcd value="57" param="speed" />
+	</Node>
+	<Node name="node" vdop="1.0" hdop="0.8" satelites="11" altitude="354.2"
+		heading="73.8" speed="65.40" latitude="48.252947" longitude="13.164288"
+		timestamp="2014-10-29T14:18:09.000+01:00" id="8776521">
+		<Xfcd value="1457" param="espd" />
+		<Xfcd value="3" param="fcon" />
+		<Xfcd value="66" param="speed" />
+		<Xfcd value="3.0" param="stwa" />
+	</Node>
+	<Node name="node" vdop="1.0" hdop="0.8" satelites="11" altitude="353.9"
+		heading="102.6" speed="66.00" latitude="48.253725" longitude="13.171457"
+		timestamp="2014-10-29T14:18:39.000+01:00" id="8776566">
+		<Xfcd value="1791" param="espd" />
+		<Xfcd value="3" param="fcon" />
+		<Xfcd value="35482" param="kmrd" />
+		<Xfcd value="68" param="speed" />
+	</Node>
+	<Node name="node" vdop="1.0" hdop="0.8" satelites="11" altitude="353.8"
+		heading="118.2" speed="70.90" latitude="48.252770" longitude="13.179622"
+		timestamp="2014-10-29T14:19:09.000+01:00" id="8776611">
+		<Xfcd value="1497" param="espd" />
+		<Xfcd value="4" param="fcon" />
+		<Xfcd value="35483" param="kmrd" />
+		<Xfcd value="67" param="speed" />
+		<Xfcd value="6.0" param="stwa" />
+	</Node>
+	<Node name="node" vdop="1.0" hdop="0.8" satelites="11" altitude="353.7"
+		heading="117.1" speed="68.20" latitude="48.249633" longitude="13.185155"
+		timestamp="2014-10-29T14:19:39.000+01:00" id="8776653">
+		<Xfcd value="1505" param="espd" />
+		<Xfcd value="3" param="fcon" />
+		<Xfcd value="68" param="speed" />
+		<Xfcd value="-3.0" param="stwa" />
+	</Node>
+	<Node name="node" vdop="1.0" hdop="0.8" satelites="11" altitude="373.1"
+		heading="90.7" speed="34.70" latitude="48.248798" longitude="13.191667"
+		timestamp="2014-10-29T14:20:09.000+01:00" id="8776690">
+		<Xfcd value="1" param="brlt" />
+		<Xfcd value="1285" param="espd" />
+		<Xfcd value="4" param="fcon" />
+		<Xfcd value="35484" param="kmrd" />
+		<Xfcd value="30" param="speed" />
+		<Xfcd value="0.0" param="stwa" />
+	</Node>
+	<Node name="node" vdop="1.0" hdop="0.8" satelites="11" altitude="374.4"
+		heading="89.9" speed="30.80" latitude="48.248798" longitude="13.191893"
+		timestamp="2014-10-29T14:20:11.000+01:00" id="8776697">
+		<Xfcd value="0" param="brlt" />
+		<Xfcd value="796" param="espd" />
+		<Xfcd value="1" param="fcon" />
+		<Xfcd value="14" param="speed" />
+		<Xfcd value="3.0" param="stwa" />
+	</Node>
+	<Node name="node" vdop="1.0" hdop="0.8" satelites="11" altitude="374.9"
+		heading="89.9" speed="26.10" latitude="48.248802" longitude="13.191982"
+		timestamp="2014-10-29T14:20:12.000+01:00" id="8776701">
+		<Xfcd value="1" param="brlt" />
+		<Xfcd value="792" param="espd" />
+		<Xfcd value="1" param="fcon" />
+		<Xfcd value="13" param="speed" />
+		<Xfcd value="6.0" param="stwa" />
+	</Node>
+	<Node name="node" vdop="1.0" hdop="0.8" satelites="11" altitude="375.6"
+		heading="90.7" speed="21.10" latitude="48.248802" longitude="13.192048"
+		timestamp="2014-10-29T14:20:13.000+01:00" id="8776706">
+		<Xfcd value="0" param="brlt" />
+		<Xfcd value="786" param="espd" />
+		<Xfcd value="1" param="fcon" />
+		<Xfcd value="8" param="speed" />
+	</Node>
+	<Node name="node" vdop="1.0" hdop="0.8" satelites="11" altitude="377.8"
+		heading="93.2" speed="17.30" latitude="48.248802" longitude="13.192337"
+		timestamp="2014-10-29T14:20:21.000+01:00" id="8776717">
+		<Xfcd value="2" param="dind" />
+		<Xfcd value="2105" param="espd" />
+		<Xfcd value="4" param="fcon" />
+		<Xfcd value="24" param="speed" />
+		<Xfcd value="92.0" param="stwa" />
+	</Node>
+	<Node name="node" vdop="1.0" hdop="0.8" satelites="11" altitude="378.0"
+		heading="110.4" speed="22.60" latitude="48.248773" longitude="13.192488"
+		timestamp="2014-10-29T14:20:23.000+01:00" id="8776722">
+		<Xfcd value="0" param="dind" />
+		<Xfcd value="1493" param="espd" />
+		<Xfcd value="2" param="fcon" />
+		<Xfcd value="25" param="speed" />
+		<Xfcd value="60.0" param="stwa" />
+	</Node>
+	<Node name="node" vdop="1.0" hdop="0.8" satelites="11" altitude="375.0"
+		heading="192.7" speed="93.00" latitude="48.247192" longitude="13.192550"
+		timestamp="2014-10-29T14:20:36.000+01:00" id="8776742">
+		<Xfcd value="1" param="dind" />
+		<Xfcd value="4811" param="espd" />
+		<Xfcd value="23" param="fcon" />
+		<Xfcd value="112" param="speed" />
+		<Xfcd value="-2.0" param="stwa" />
+		<Xfcd value="7689557" param="dwlg" />
+		<Xfcd value="1" param="dswr" />
+	</Node>
+	<Node name="node" vdop="1.0" hdop="0.8" satelites="11" altitude="374.5"
+		heading="196.3" speed="110.00" latitude="48.246683" longitude="13.192338"
+		timestamp="2014-10-29T14:20:38.000+01:00" id="8776750">
+		<Xfcd value="0" param="dind" />
+		<Xfcd value="5033" param="espd" />
+		<Xfcd value="36" param="fcon" />
+		<Xfcd value="121" param="speed" />
+		<Xfcd value="14.0" param="stwa" />
+		<Xfcd value="5592405" param="dwlg" />
+		<Xfcd value="0" param="dswr" />
+	</Node>
+	<Node name="node" vdop="1.0" hdop="0.8" satelites="11" altitude="374.3"
+		heading="196.9" speed="118.20" latitude="48.246400" longitude="13.192207"
+		timestamp="2014-10-29T14:20:39.000+01:00" id="8776755">
+		<Xfcd value="1" param="brlt" />
+		<Xfcd value="3634" param="espd" />
+		<Xfcd value="0" param="fcon" />
+		<Xfcd value="112" param="speed" />
+		<Xfcd value="11.0" param="stwa" />
+	</Node>
+	<Node name="node" vdop="1.0" hdop="0.8" satelites="11" altitude="374.3"
+		heading="206.5" speed="119.80" latitude="48.245835" longitude="13.191850"
+		timestamp="2014-10-29T14:20:41.000+01:00" id="8776761">
+		<Xfcd value="0" param="brlt" />
+		<Xfcd value="2522" param="espd" />
+		<Xfcd value="96" param="speed" />
+		<Xfcd value="-3.0" param="stwa" />
+	</Node>
+	<Node name="node" vdop="1.0" hdop="0.8" satelites="11" altitude="372.3"
+		heading="199.2" speed="83.00" latitude="48.242747" longitude="13.189533"
+		timestamp="2014-10-29T14:20:56.000+01:00" id="8776781">
+		<Xfcd value="1" param="brlt" />
+		<Xfcd value="1734" param="espd" />
+		<Xfcd value="1" param="fcon" />
+		<Xfcd value="79" param="speed" />
+		<Xfcd value="3.0" param="stwa" />
+	</Node>
+	<Node name="node" vdop="1.0" hdop="0.8" satelites="11" altitude="372.0"
+		heading="202.8" speed="70.00" latitude="48.242043" longitude="13.189148"
+		timestamp="2014-10-29T14:21:00.000+01:00" id="8776792">
+		<Xfcd value="0" param="brlt" />
+		<Xfcd value="1618" param="espd" />
+		<Xfcd value="51" param="speed" />
+		<Xfcd value="-19.0" param="stwa" />
+	</Node>
+	<Node name="node" vdop="1.0" hdop="0.8" satelites="11" altitude="370.6"
+		heading="221.2" speed="54.70" latitude="48.238873" longitude="13.186065"
+		timestamp="2014-10-29T14:21:30.000+01:00" id="8776831">
+		<Xfcd value="10.0" param="atmp" />
+		<Xfcd value="1920" param="espd" />
+		<Xfcd value="2" param="fcon" />
+		<Xfcd value="35485" param="kmrd" />
+		<Xfcd value="58" param="speed" />
+		<Xfcd value="0.0" param="stwa" />
+	</Node>
+	<Node name="node" vdop="1.0" hdop="0.8" satelites="11" altitude="367.2"
+		heading="226.3" speed="50.20" latitude="48.235880" longitude="13.181870"
+		timestamp="2014-10-29T14:22:00.000+01:00" id="8776871">
+		<Xfcd value="1322" param="espd" />
+		<Xfcd value="2" param="fcon" />
+		<Xfcd value="50" param="speed" />
+		<Xfcd value="7.0" param="stwa" />
+	</Node>
+	<Node name="node" vdop="1.0" hdop="0.8" satelites="11" altitude="365.9"
+		heading="221.8" speed="46.10" latitude="48.234410" longitude="13.177362"
+		timestamp="2014-10-29T14:22:30.000+01:00" id="8776911">
+		<Xfcd value="1532" param="espd" />
+		<Xfcd value="2" param="fcon" />
+		<Xfcd value="35486" param="kmrd" />
+		<Xfcd value="46" param="speed" />
+		<Xfcd value="-1.0" param="stwa" />
+	</Node>
+	<Node name="node" vdop="1.0" hdop="0.8" satelites="11" altitude="367.8"
+		heading="188.6" speed="73.30" latitude="48.231243" longitude="13.175027"
+		timestamp="2014-10-29T14:23:00.000+01:00" id="8776951">
+		<Xfcd value="5610" param="espd" />
+		<Xfcd value="8" param="fcon" />
+		<Xfcd value="95" param="speed" />
+		<Xfcd value="1.0" param="stwa" />
+	</Node>
+	<Node name="node" vdop="1.0" hdop="0.8" satelites="11" altitude="373.4"
+		heading="218.5" speed="91.90" latitude="48.224942" longitude="13.171003"
+		timestamp="2014-10-29T14:23:30.000+01:00" id="8776994">
+		<Xfcd value="2023" param="espd" />
+		<Xfcd value="6" param="fcon" />
+		<Xfcd value="35487" param="kmrd" />
+		<Xfcd value="91" param="speed" />
+		<Xfcd value="8.0" param="stwa" />
+	</Node>
+	<Node name="node" vdop="1.0" hdop="0.8" satelites="11" altitude="373.5"
+		heading="222.0" speed="92.00" latitude="48.224770" longitude="13.170775"
+		timestamp="2014-10-29T14:23:31.000+01:00" id="8777000">
+		<Xfcd value="1" param="brlt" />
+		<Xfcd value="1999" param="espd" />
+		<Xfcd value="6" param="fcon" />
+		<Xfcd value="90" param="speed" />
+		<Xfcd value="5.0" param="stwa" />
+	</Node>
+	<Node name="node" vdop="1.0" hdop="0.8" satelites="11" altitude="374.2"
+		heading="229.0" speed="89.30" latitude="48.224312" longitude="13.170030"
+		timestamp="2014-10-29T14:23:34.000+01:00" id="8777010">
+		<Xfcd value="0" param="brlt" />
+		<Xfcd value="1737" param="espd" />
+		<Xfcd value="0" param="fcon" />
+		<Xfcd value="64" param="speed" />
+		<Xfcd value="-1.0" param="stwa" />
+	</Node>
+	<Node name="node" vdop="1.0" hdop="0.8" satelites="11" altitude="375.7"
+		heading="221.3" speed="86.90" latitude="48.222090" longitude="13.166792"
+		timestamp="2014-10-29T14:23:50.000+01:00" id="8777034">
+		<Xfcd value="2" param="dind" />
+		<Xfcd value="1841" param="espd" />
+		<Xfcd value="9" param="fcon" />
+		<Xfcd value="84" param="speed" />
+	</Node>
+	<Node name="node" vdop="1.0" hdop="0.8" satelites="11" altitude="375.8"
+		heading="221.3" speed="85.40" latitude="48.221768" longitude="13.166373"
+		timestamp="2014-10-29T14:23:52.000+01:00" id="8777042">
+		<Xfcd value="1" param="brlt" />
+		<Xfcd value="1752" param="espd" />
+		<Xfcd value="80" param="speed" />
+	</Node>
+	<Node name="node" vdop="1.0" hdop="0.8" satelites="11" altitude="375.8"
+		heading="217.2" speed="61.10" latitude="48.220932" longitude="13.165322"
+		timestamp="2014-10-29T14:23:58.000+01:00" id="8777054">
+		<Xfcd value="0" param="brlt" />
+		<Xfcd value="1192" param="espd" />
+		<Xfcd value="35488" param="kmrd" />
+		<Xfcd value="32" param="speed" />
+		<Xfcd value="81.0" param="stwa" />
+	</Node>
+	<Node name="node" vdop="1.0" hdop="0.8" satelites="11" altitude="375.8"
+		heading="280.8" speed="31.30" latitude="48.220657" longitude="13.164865"
+		timestamp="2014-10-29T14:24:03.000+01:00" id="8777062">
+		<Xfcd value="0" param="dind" />
+		<Xfcd value="2471" param="espd" />
+		<Xfcd value="2" param="fcon" />
+		<Xfcd value="42" param="speed" />
+		<Xfcd value="12.0" param="stwa" />
+	</Node>
+	<Node name="node" vdop="1.0" hdop="0.8" satelites="11" altitude="383.1"
+		heading="311.9" speed="84.30" latitude="48.222447" longitude="13.157432"
+		timestamp="2014-10-29T14:24:33.000+01:00" id="8777102">
+		<Xfcd value="1882" param="espd" />
+		<Xfcd value="8" param="fcon" />
+		<Xfcd value="85" param="speed" />
+		<Xfcd value="11.0" param="stwa" />
+	</Node>
+	<Node name="node" vdop="1.0" hdop="0.8" satelites="11" altitude="387.1"
+		heading="275.3" speed="87.40" latitude="48.225980" longitude="13.149585"
+		timestamp="2014-10-29T14:25:03.000+01:00" id="8777140">
+		<Xfcd value="1926" param="espd" />
+		<Xfcd value="5" param="fcon" />
+		<Xfcd value="35489" param="kmrd" />
+		<Xfcd value="87" param="speed" />
+		<Xfcd value="-4.0" param="stwa" />
+	</Node>
+	<Node name="node" vdop="1.0" hdop="0.8" satelites="11" altitude="391.8"
+		heading="269.2" speed="89.50" latitude="48.225545" longitude="13.139983"
+		timestamp="2014-10-29T14:25:33.000+01:00" id="8777177">
+		<Xfcd value="1965" param="espd" />
+		<Xfcd value="5" param="fcon" />
+		<Xfcd value="35490" param="kmrd" />
+		<Xfcd value="88" param="speed" />
+		<Xfcd value="2.0" param="stwa" />
+	</Node>
+	<Node name="node" vdop="1.0" hdop="0.8" satelites="11" altitude="394.6"
+		heading="258.7" speed="79.80" latitude="48.225173" longitude="13.130573"
+		timestamp="2014-10-29T14:26:03.000+01:00" id="8777213">
+		<Xfcd value="1651" param="espd" />
+		<Xfcd value="3" param="fcon" />
+		<Xfcd value="75" param="speed" />
+		<Xfcd value="-7.0" param="stwa" />
+	</Node>
+	<Node name="node" vdop="1.0" hdop="0.8" satelites="11" altitude="393.9"
+		heading="224.7" speed="74.50" latitude="48.224187" longitude="13.128223"
+		timestamp="2014-10-29T14:26:13.000+01:00" id="8777229">
+		<Xfcd value="1" param="brlt" />
+		<Xfcd value="1566" param="espd" />
+		<Xfcd value="2" param="fcon" />
+		<Xfcd value="35491" param="kmrd" />
+		<Xfcd value="71" param="speed" />
+		<Xfcd value="2.0" param="stwa" />
+	</Node>
+	<Node name="node" vdop="1.0" hdop="0.8" satelites="11" altitude="393.2"
+		heading="224.3" speed="73.50" latitude="48.224053" longitude="13.128038"
+		timestamp="2014-10-29T14:26:14.000+01:00" id="8777235">
+		<Xfcd value="0" param="brlt" />
+		<Xfcd value="1482" param="espd" />
+		<Xfcd value="67" param="speed" />
+		<Xfcd value="5.0" param="stwa" />
+	</Node>
+	<!-- Fahrer wird müde, Abstandswarner ertönt. Er verliert die Kontrolle 
+		über das Auto. Das Auto überschlägt sich bei 85 km/h. Fehler- und Warnleuchten 
+		werden ausgelöst -->
+	<Node name="node" vdop="1.0" hdop="0.8" satelites="11" altitude="395.3"
+		heading="250.1" speed="95.00" latitude="48.220863" longitude="13.120278"
+		timestamp="2014-10-29T14:26:45.000+01:00" id="8777276">
+		<Xfcd value="2" param="ftgs" />
+		<Xfcd value="2095" param="espd" />
+		<Xfcd value="7" param="fcon" />
+		<Xfcd value="95" param="speed" />
+		<Xfcd value="1" param="dswr" />
+		<Xfcd value="-2.0" param="stwa" />
+	</Node>
+	<Node name="node" vdop="1.0" hdop="0.8" satelites="11" altitude="400.1"
+		heading="222.7" speed="88.00" latitude="48.216902" longitude="13.112583"
+		timestamp="2014-10-29T14:27:15.000+01:00" id="8777323">
+		<Xfcd value="1865" param="espd" />
+		<Xfcd value="4" param="fcon" />
+		<Xfcd value="40" param="flev" />
+		<Xfcd value="35492" param="kmrd" />
+		<Xfcd value="85" param="speed" />
+		<Xfcd value="32" param="crre" />
+		<Xfcd value="0.0" param="stwa" />
+	</Node>
+	<!-- Fahrer fährt trotz allem munter weiter :) -->
+	<Node name="node" vdop="1.0" hdop="0.8" satelites="11" altitude="389.9"
+		heading="216.9" speed="72.20" latitude="48.213510" longitude="13.105863"
+		timestamp="2014-10-29T14:27:45.000+01:00" id="8777369">
+		<Xfcd value="1573" param="espd" />
+		<Xfcd value="1" param="fcon" />
+		<Xfcd value="41" param="flev" />
+		<Xfcd value="35493" param="kmrd" />
+		<Xfcd value="71" param="speed" />
+		<Xfcd value="2.0" param="stwa" />
+	</Node>
+	<Node name="node" vdop="1.0" hdop="0.8" satelites="11" altitude="389.1"
+		heading="217.3" speed="72.20" latitude="48.213363" longitude="13.105705"
+		timestamp="2014-10-29T14:27:46.000+01:00" id="8777374">
+		<Xfcd value="1" param="brlt" />
+		<Xfcd value="1555" param="espd" />
+		<Xfcd value="0" param="ftgs" />
+	</Node>
+	<Node name="node" vdop="1.0" hdop="0.8" satelites="11" altitude="386.6"
+		heading="219.5" speed="55.90" latitude="48.212715" longitude="13.104962"
+		timestamp="2014-10-29T14:27:51.000+01:00" id="8777385">
+		<Xfcd value="0" param="brlt" />
+		<Xfcd value="1486" param="espd" />
+		<Xfcd value="31" param="speed" />
+		<Xfcd value="3.0" param="stwa" />
+	</Node>
+	<Node name="node" vdop="1.0" hdop="0.8" satelites="11" altitude="386.2"
+		heading="239.4" speed="48.20" latitude="48.211470" longitude="13.102877"
+		timestamp="2014-10-29T14:28:10.000+01:00" id="8777416">
+		<Xfcd value="1" param="brlt" />
+		<Xfcd value="1478" param="espd" />
+		<Xfcd value="2" param="fcon" />
+		<Xfcd value="45" param="speed" />
+		<Xfcd value="12.0" param="stwa" />
+	</Node>
+	<Node name="node" vdop="1.0" hdop="0.8" satelites="11" altitude="384.7"
+		heading="252.5" speed="37.70" latitude="48.211295" longitude="13.102282"
+		timestamp="2014-10-29T14:28:14.000+01:00" id="8777427">
+		<Xfcd value="0" param="brlt" />
+		<Xfcd value="927" param="espd" />
+		<Xfcd value="0" param="fcon" />
+		<Xfcd value="12" param="speed" />
+		<Xfcd value="80.0" param="stwa" />
+	</Node>
+	<Node name="node" vdop="1.0" hdop="0.8" satelites="11" altitude="384.4"
+		heading="273.7" speed="17.00" latitude="48.211282" longitude="13.102070"
+		timestamp="2014-10-29T14:28:17.000+01:00" id="8777433">
+		<Xfcd value="1" param="brlt" />
+		<Xfcd value="793" param="espd" />
+		<Xfcd value="1" param="fcon" />
+		<Xfcd value="9" param="speed" />
+		<Xfcd value="57.0" param="stwa" />
+	</Node>
+	<Node name="node" vdop="1.0" hdop="0.8" satelites="11" altitude="384.2"
+		heading="287.1" speed="10.00" latitude="48.211300" longitude="13.102003"
+		timestamp="2014-10-29T14:28:19.000+01:00" id="8777437">
+		<Xfcd value="0" param="brlt" />
+		<Xfcd value="798" param="espd" />
+		<Xfcd value="1" param="fcon" />
+		<Xfcd value="0" param="speed" />
+		<Xfcd value="22.0" param="stwa" />
+		<State value="0" param="move" />
+	</Node>
+	<!-- Fahrer biegt links ab -->
+	<Node name="node" vdop="1.0" hdop="0.8" satelites="11" altitude="383.8"
+		heading="289.6" speed="0.00" latitude="48.211313" longitude="13.101970"
+		timestamp="2014-10-29T14:28:22.000+01:00" id="8777450">
+		<Xfcd value="1" param="dind" />
+		<Xfcd value="1080" param="espd" />
+		<Xfcd value="2" param="fcon" />
+		<Xfcd value="6" param="speed" />
+		<Xfcd value="18.0" param="stwa" />
+	</Node>
+	<Node name="node" vdop="1.0" hdop="0.8" satelites="11" altitude="383.6"
+		heading="296.0" speed="3.10" latitude="48.211315" longitude="13.101972"
+		timestamp="2014-10-29T14:28:23.000+01:00" id="8777455">
+		<Xfcd value="1" param="brlt" />
+		<Xfcd value="987" param="espd" />
+		<Xfcd value="1" param="fcon" />
+		<Xfcd value="11.0" param="stwa" />
+	</Node>
+	<Node name="node" vdop="1.0" hdop="0.8" satelites="11" altitude="383.4"
+		heading="294.8" speed="5.40" latitude="48.211315" longitude="13.101970"
+		timestamp="2014-10-29T14:28:24.000+01:00" id="8777460">
+		<Xfcd value="0" param="brlt" />
+		<Xfcd value="1039" param="espd" />
+		<Xfcd value="1" param="fcon" />
+		<Xfcd value="3" param="speed" />
+		<Xfcd value="-80.0" param="stwa" />
+	</Node>
+	<Node name="node" vdop="1.0" hdop="0.8" satelites="11" altitude="382.6"
+		heading="245.2" speed="13.10" latitude="48.211320" longitude="13.101863"
+		timestamp="2014-10-29T14:28:29.000+01:00" id="8777469">
+		<Xfcd value="0" param="dind" />
+		<Xfcd value="2687" param="espd" />
+		<Xfcd value="7" param="fcon" />
+		<Xfcd value="33" param="speed" />
+		<Xfcd value="0.0" param="stwa" />
+	</Node>
+	<Node name="node" vdop="1.0" hdop="0.8" satelites="11" altitude="382.8"
+		heading="183.5" speed="38.90" latitude="48.208442" longitude="13.101273"
+		timestamp="2014-10-29T14:28:59.000+01:00" id="8777512">
+		<Xfcd value="1435" param="espd" />
+		<Xfcd value="3" param="fcon" />
+		<Xfcd value="43" param="speed" />
+		<Xfcd value="-2.0" param="stwa" />
+		<State value="1" param="move" />
+	</Node>
+	<Node name="node" vdop="1.0" hdop="0.8" satelites="11" altitude="383.3"
+		heading="187.1" speed="64.80" latitude="48.206698" longitude="13.101093"
+		timestamp="2014-10-29T14:29:11.000+01:00" id="8777537">
+		<Xfcd value="1" param="brlt" />
+		<Xfcd value="1326" param="espd" />
+		<Xfcd value="7" param="fcon" />
+		<Xfcd value="40" param="flev" />
+		<Xfcd value="35494" param="kmrd" />
+		<Xfcd value="60" param="speed" />
+		<Xfcd value="-6.0" param="stwa" />
+	</Node>
+	<Node name="node" vdop="1.0" hdop="0.8" satelites="11" altitude="383.4"
+		heading="184.9" speed="62.70" latitude="48.206387" longitude="13.101043"
+		timestamp="2014-10-29T14:29:13.000+01:00" id="8777772">
+		<Xfcd value="0" param="brlt" />
+		<Xfcd value="1282" param="espd" />
+		<Xfcd value="49" param="speed" />
+	</Node>
+	<Node name="node" vdop="1.0" hdop="0.8" satelites="11" altitude="383.3"
+		heading="176.2" speed="45.70" latitude="48.204717" longitude="13.101168"
+		timestamp="2014-10-29T14:29:27.000+01:00" id="8777780">
+		<Xfcd value="1" param="brlt" />
+		<Xfcd value="1383" param="espd" />
+		<Xfcd value="1" param="fcon" />
+		<Xfcd value="41" param="flev" />
+		<Xfcd value="42" param="speed" />
+		<Xfcd value="12.0" param="stwa" />
+	</Node>
+	<Node name="node" vdop="1.0" hdop="0.8" satelites="11" altitude="383.3"
+		heading="180.0" speed="44.10" latitude="48.204495" longitude="13.101182"
+		timestamp="2014-10-29T14:29:29.000+01:00" id="8777785">
+		<Xfcd value="0" param="brlt" />
+		<Xfcd value="1138" param="espd" />
+		<Xfcd value="27" param="speed" />
+		<Xfcd value="31.0" param="stwa" />
+	</Node>
+	<!-- Oh je, es fängt zu regnen an, aber der Frontwischer ist ja zum Glück 
+		auf Intervall gstellt -->
+	<Node name="node" vdop="1.0" hdop="0.8" satelites="11" altitude="383.3"
+		heading="184.8" speed="40.40" latitude="48.204397" longitude="13.101172"
+		timestamp="2014-10-29T14:29:30.000+01:00" id="8777789">
+		<Xfcd value="1" param="brlt" />
+		<Xfcd value="1168" param="espd" />
+		<Xfcd value="22" param="speed" />
+		<Xfcd value="28.0" param="stwa" />
+		<Xfcd value="50" param="rain" />
+		<Xfcd value="1" param="wiper" />
+	</Node>
+	<!-- Blätter auf der Scheibe, einmal Frontwaschen bitte -->
+	<Node name="node" vdop="1.0" hdop="0.8" satelites="11" altitude="385.3"
+		heading="200.0" speed="0.00" latitude="48.204190" longitude="13.101082"
+		timestamp="2014-10-29T14:29:39.000+01:00" id="8777793">
+		<Xfcd value="0" param="brlt" />
+		<Xfcd value="0" param="espd" />
+		<Xfcd value="0" param="fcon" />
+		<Xfcd value="0" param="speed" />
+		<Xfcd value="-27.0" param="stwa" />
+		<State value="0" param="move" />
+		<Xfcd value="80" param="rain" />
+		<Xfcd value="17" param="wiper" />
+	</Node>
+	<Node name="node" vdop="1.0" hdop="0.8" satelites="11" altitude="387.6"
+		heading="145.8" speed="28.50" latitude="48.204102" longitude="13.101143"
+		timestamp="2014-10-29T14:29:46.000+01:00" id="8777798">
+		<Xfcd value="2" param="dind" />
+		<Xfcd value="2177" param="espd" />
+		<Xfcd value="8" param="fcon" />
+		<Xfcd value="39" param="speed" />
+		<Xfcd value="2.0" param="stwa" />
+		<State value="1" param="move" />
+		<Xfcd value="5723477" param="dwlg" />
+		<Xfcd value="1" param="wiper" />
+	</Node>
+	<Node name="node" vdop="1.2" hdop="0.9" satelites="10" altitude="388.0"
+		heading="172.2" speed="35.20" latitude="48.203690" longitude="13.101500"
+		timestamp="2014-10-29T14:29:51.000+01:00" id="8777802">
+		<Xfcd value="0" param="dind" />
+		<Xfcd value="2708" param="espd" />
+		<Xfcd value="6" param="fcon" />
+		<Xfcd value="40" param="flev" />
+		<Xfcd value="46" param="speed" />
+		<Xfcd value="-15.0" param="stwa" />
+	</Node>
+	<!-- Fahrer betätigt Warnblinker, um nachfolgende Fahrzeuge auf eine Notbremsung 
+		aufmerksam zu machen. Er hätte beinahe die Tankstellenzufahrt übersehen -->
+	<!-- Dann kann auch gleich noch der Motorkühlmittelfehler behoben werden -->
+	<Node name="node" vdop="1.0" hdop="0.8" satelites="11" altitude="387.9"
+		heading="215.6" speed="41.10" latitude="48.203522" longitude="13.101387"
+		timestamp="2014-10-29T14:29:53.000+01:00" id="8777807">
+		<Xfcd value="1" param="brlt" />
+		<Xfcd value="2145" param="espd" />
+		<Xfcd value="3" param="fcon" />
+		<Xfcd value="45" param="speed" />
+		<Xfcd value="1" param="wrlt" />
+		<Xfcd value="1493" param="delg" />
+		<Xfcd value="-4.0" param="stwa" />
+	</Node>
+	<!-- Fahrer macht Tankstop und tankt -->
+	<Node name="node" vdop="1.0" hdop="0.8" satelites="11" altitude="387.3"
+		heading="228.0" speed="0.00" latitude="48.202990" longitude="13.100885"
+		timestamp="2014-10-29T14:30:06.000+01:00" id="8777811">
+		<Xfcd value="0" param="brlt" />
+		<Xfcd value="0" param="espd" />
+		<Xfcd value="0" param="fcon" />
+		<Xfcd value="70" param="flev" />
+		<Xfcd value="0" param="speed" />
+		<Xfcd value="0" param="wrlt" />
+		<Xfcd value="1365" param="delg" />
+		<Xfcd value="50.0" param="stwa" />
+		<State value="0" param="move" />
+	</Node>
+	<!-- Fahrer biegt rechts aus der Tankstellenausfahrt -->
+	<Node name="node" vdop="1.0" hdop="0.8" satelites="11" altitude="387.3"
+		heading="228.0" speed="0.00" latitude="48.202990" longitude="13.100885"
+		timestamp="2014-10-29T14:30:08.000+01:00" id="8777815">
+		<Xfcd value="2" param="dind" />
+		<Xfcd value="1570" param="espd" />
+		<Xfcd value="2" param="fcon" />
+		<Xfcd value="1" param="speed" />
+		<Xfcd value="219.0" param="stwa" />
+	</Node>
+	<Node name="node" vdop="1.0" hdop="0.8" satelites="11" altitude="387.3"
+		heading="228.0" speed="0.00" latitude="48.202990" longitude="13.100885"
+		timestamp="2014-10-29T14:30:10.000+01:00" id="8777821">
+		<Xfcd value="0" param="dind" />
+		<Xfcd value="1752" param="espd" />
+		<Xfcd value="8" param="fcon" />
+		<Xfcd value="20" param="speed" />
+		<Xfcd value="228.0" param="stwa" />
+		<Xfcd value="50" param="rain" />
+	</Node>
+	<Node name="node" vdop="1.0" hdop="0.8" satelites="11" altitude="386.4"
+		heading="317.0" speed="57.70" latitude="48.205910" longitude="13.097685"
+		timestamp="2014-10-29T14:30:40.000+01:00" id="8777825">
+		<Xfcd value="1434" param="espd" />
+		<Xfcd value="4" param="fcon" />
+		<Xfcd value="69" param="flev" />
+		<Xfcd value="54" param="speed" />
+		<Xfcd value="4.0" param="stwa" />
+		<State value="1" param="move" />
+		<Xfcd value="20" param="rain" />
+	</Node>
+	<Node name="node" vdop="1.0" hdop="0.8" satelites="11" altitude="383.7"
+		heading="284.4" speed="99.80" latitude="48.208178" longitude="13.088530"
+		timestamp="2014-10-29T14:31:10.000+01:00" id="8777829">
+		<Xfcd value="2137" param="espd" />
+		<Xfcd value="11" param="fcon" />
+		<Xfcd value="35495" param="kmrd" />
+		<Xfcd value="96" param="speed" />
+		<Xfcd value="10.0" param="stwa" />
+		<Xfcd value="5" param="rain" />
+	</Node>
+	<!-- Achtung: Getriebefehler! -->
+	<Node name="node" vdop="1.0" hdop="0.8" satelites="11" altitude="383.7"
+		heading="290.0" speed="89.50" latitude="48.211307" longitude="13.079328"
+		timestamp="2014-10-29T14:31:40.000+01:00" id="8777833">
+		<Xfcd value="1919" param="espd" />
+		<Xfcd value="4" param="fcon" />
+		<Xfcd value="35496" param="kmrd" />
+		<Xfcd value="87" param="speed" />
+		<Xfcd value="12.0" param="stwa" />
+		<Xfcd value="3413" param="delg" />
+	</Node>
+	<Node name="node" vdop="1.0" hdop="0.8" satelites="11" altitude="382.2"
+		heading="350.2" speed="70.70" latitude="48.216018" longitude="13.075160"
+		timestamp="2014-10-29T14:32:10.000+01:00" id="8777838">
+		<Xfcd value="1551" param="espd" />
+		<Xfcd value="2" param="fcon" />
+		<Xfcd value="35497" param="kmrd" />
+		<Xfcd value="70" param="speed" />
+		<Xfcd value="1.0" param="stwa" />
+	</Node>
+	<Node name="node" vdop="1.0" hdop="0.8" satelites="11" altitude="376.9"
+		heading="343.8" speed="69.80" latitude="48.220762" longitude="13.072957"
+		timestamp="2014-10-29T14:32:40.000+01:00" id="8777882">
+		<Xfcd value="1458" param="espd" />
+		<Xfcd value="2" param="fcon" />
+		<Xfcd value="66" param="speed" />
+		<Xfcd value="-1.0" param="stwa" />
+	</Node>
+	<!-- Es hört zu regnen auf, Wischer ausschalten -->
+	<Node name="node" vdop="1.0" hdop="0.8" satelites="11" altitude="377.9"
+		heading="12.5" speed="57.60" latitude="48.222867" longitude="13.072950"
+		timestamp="2014-10-29T14:32:54.000+01:00" id="8777908">
+		<Xfcd value="1" param="brlt" />
+		<Xfcd value="1432" param="espd" />
+		<Xfcd value="1" param="fcon" />
+		<Xfcd value="54" param="speed" />
+		<Xfcd value="-17.0" param="stwa" />
+		<Xfcd value="0" param="rain" />
+		<Xfcd value="0" param="wiper" />
+	</Node>
+	<Node name="node" vdop="1.0" hdop="0.8" satelites="11" altitude="377.9"
+		heading="9.9" speed="56.70" latitude="48.223002" longitude="13.072992"
+		timestamp="2014-10-29T14:32:55.000+01:00" id="8777914">
+		<Xfcd value="0" param="brlt" />
+		<Xfcd value="1329" param="espd" />
+		<Xfcd value="50" param="speed" />
+	</Node>
+	<Node name="node" vdop="1.0" hdop="0.8" satelites="11" altitude="377.8"
+		heading="347.2" speed="50.90" latitude="48.223517" longitude="13.072967"
+		timestamp="2014-10-29T14:32:59.000+01:00" id="8777923">
+		<Xfcd value="1" param="brlt" />
+		<Xfcd value="1228" param="espd" />
+		<Xfcd value="1" param="fcon" />
+		<Xfcd value="47" param="speed" />
+		<Xfcd value="-10.0" param="stwa" />
+	</Node>
+	<Node name="node" vdop="1.0" hdop="0.8" satelites="11" altitude="377.6"
+		heading="333.1" speed="48.50" latitude="48.223742" longitude="13.072833"
+		timestamp="2014-10-29T14:33:01.000+01:00" id="8777929">
+		<Xfcd value="0" param="brlt" />
+		<Xfcd value="1161" param="espd" />
+		<Xfcd value="40" param="speed" />
+		<Xfcd value="5.0" param="stwa" />
+	</Node>
+	<Node name="node" vdop="1.0" hdop="0.8" satelites="11" altitude="376.4"
+		heading="285.0" speed="54.20" latitude="48.226780" longitude="13.070510"
+		timestamp="2014-10-29T14:33:31.000+01:00" id="8777979">
+		<Xfcd value="10.5" param="atmp" />
+		<Xfcd value="1719" param="espd" />
+		<Xfcd value="3" param="fcon" />
+		<Xfcd value="35498" param="kmrd" />
+		<Xfcd value="55" param="speed" />
+		<Xfcd value="0.0" param="stwa" />
+	</Node>
+	<Node name="node" vdop="1.0" hdop="0.8" satelites="11" altitude="380.5"
+		heading="284.5" speed="70.00" latitude="48.228570" longitude="13.063607"
+		timestamp="2014-10-29T14:34:01.000+01:00" id="8778029">
+		<Xfcd value="1526" param="espd" />
+		<Xfcd value="4" param="fcon" />
+		<Xfcd value="69" param="speed" />
+		<Xfcd value="-5.0" param="stwa" />
+	</Node>
+	<Node name="node" vdop="1.0" hdop="0.8" satelites="11" altitude="379.2"
+		heading="335.1" speed="77.40" latitude="48.232118" longitude="13.058862"
+		timestamp="2014-10-29T14:34:31.000+01:00" id="8778075">
+		<Xfcd value="1749" param="espd" />
+		<Xfcd value="4" param="fcon" />
+		<Xfcd value="35499" param="kmrd" />
+		<Xfcd value="79" param="speed" />
+		<Xfcd value="-1.0" param="stwa" />
+	</Node>
+	<!-- Achtung: Generatorfehler! -->
+	<Node name="node" vdop="1.0" hdop="0.8" satelites="11" altitude="376.5"
+		heading="325.9" speed="75.20" latitude="48.236977" longitude="13.054217"
+		timestamp="2014-10-29T14:35:01.000+01:00" id="8778123">
+		<Xfcd value="1643" param="espd" />
+		<Xfcd value="3" param="fcon" />
+		<Xfcd value="35500" param="kmrd" />
+		<Xfcd value="74" param="speed" />
+		<Xfcd value="3421" param="delg" />
+	</Node>
+	<Node name="node" vdop="1.0" hdop="0.8" satelites="11" altitude="367.7"
+		heading="315.2" speed="73.00" latitude="48.240613" longitude="13.048103"
+		timestamp="2014-10-29T14:35:31.000+01:00" id="8778169">
+		<Xfcd value="1566" param="espd" />
+		<Xfcd value="2" param="fcon" />
+		<Xfcd value="71" param="speed" />
+		<Xfcd value="2.0" param="stwa" />
+	</Node>
+	<Node name="node" vdop="1.0" hdop="0.9" satelites="10" altitude="364.6"
+		heading="317.6" speed="71.90" latitude="48.241267" longitude="13.047202"
+		timestamp="2014-10-29T14:35:36.000+01:00" id="8778178">
+		<Xfcd value="1" param="brlt" />
+		<Xfcd value="1520" param="espd" />
+		<Xfcd value="69" param="speed" />
+	</Node>
+	<Node name="node" vdop="1.0" hdop="0.8" satelites="11" altitude="362.7"
+		heading="318.5" speed="64.00" latitude="48.241760" longitude="13.046528"
+		timestamp="2014-10-29T14:35:40.000+01:00" id="8778189">
+		<Xfcd value="0" param="brlt" />
+		<Xfcd value="1572" param="espd" />
+		<Xfcd value="48" param="speed" />
+	</Node>
+	<Node name="node" vdop="1.2" hdop="1.0" satelites="10" altitude="361.9"
+		heading="319.2" speed="52.00" latitude="48.242052" longitude="13.046142"
+		timestamp="2014-10-29T14:35:43.000+01:00" id="8778195">
+		<Xfcd value="1" param="brlt" />
+		<Xfcd value="1553" param="espd" />
+		<Xfcd value="47" param="speed" />
+	</Node>
+	<Node name="node" vdop="1.0" hdop="0.8" satelites="11" altitude="359.1"
+		heading="328.9" speed="3.20" latitude="48.242572" longitude="13.045442"
+		timestamp="2014-10-29T14:35:53.000+01:00" id="8778214">
+		<Xfcd value="0" param="brlt" />
+		<Xfcd value="1016" param="espd" />
+		<Xfcd value="0" param="fcon" />
+		<Xfcd value="0" param="speed" />
+		<Xfcd value="21.0" param="stwa" />
+		<State value="0" param="move" />
+	</Node>
+	<Node name="node" vdop="1.0" hdop="0.8" satelites="11" altitude="359.0"
+		heading="329.8" speed="1.70" latitude="48.242575" longitude="13.045440"
+		timestamp="2014-10-29T14:35:54.000+01:00" id="8778223">
+		<Xfcd value="945" param="espd" />
+		<Xfcd value="1" param="fcon" />
+		<Xfcd value="1" param="speed" />
+	</Node>
+	<Node name="node" vdop="1.0" hdop="0.8" satelites="11" altitude="358.8"
+		heading="340.6" speed="17.30" latitude="48.242700" longitude="13.045382"
+		timestamp="2014-10-29T14:36:02.000+01:00" id="8778235">
+		<Xfcd value="2" param="dind" />
+		<Xfcd value="1846" param="espd" />
+		<Xfcd value="2" param="fcon" />
+		<Xfcd value="35501" param="kmrd" />
+		<Xfcd value="21" param="speed" />
+		<Xfcd value="-159.0" param="stwa" />
+		<State value="1" param="move" />
+	</Node>
+	<Node name="node" vdop="1.0" hdop="0.8" satelites="11" altitude="358.3"
+		heading="305.5" speed="20.30" latitude="48.242773" longitude="13.045288"
+		timestamp="2014-10-29T14:36:04.000+01:00" id="8778242">
+		<Xfcd value="0" param="dind" />
+		<Xfcd value="1518" param="espd" />
+		<Xfcd value="3" param="fcon" />
+		<Xfcd value="25" param="speed" />
+		<Xfcd value="56.0" param="stwa" />
+	</Node>
+	<Node name="node" vdop="1.0" hdop="0.8" satelites="11" altitude="357.6"
+		heading="293.4" speed="24.80" latitude="48.242825" longitude="13.045122"
+		timestamp="2014-10-29T14:36:06.000+01:00" id="8778246">
+		<Xfcd value="1" param="brlt" />
+		<Xfcd value="1416" param="espd" />
+		<Xfcd value="1" param="fcon" />
+		<Xfcd value="24" param="speed" />
+		<Xfcd value="7.0" param="stwa" />
+	</Node>
+	<!-- Was für ein schöner Tag, öffnen wir doch mal das Schiebedach -->
+	<Node name="node" vdop="1.0" hdop="0.8" satelites="11" altitude="357.2"
+		heading="301.7" speed="24.80" latitude="48.242860" longitude="13.045037"
+		timestamp="2014-10-29T14:36:07.000+01:00" id="8778253">
+		<Xfcd value="0" param="brlt" />
+		<Xfcd value="864" param="espd" />
+		<Xfcd value="0" param="fcon" />
+		<Xfcd value="15" param="speed" />
+		<Xfcd value="3077" param="wist" />
+		<Xfcd value="2.0" param="stwa" />
+	</Node>
+	<Node name="node" vdop="1.0" hdop="0.8" satelites="11" altitude="355.5"
+		heading="312.1" speed="18.10" latitude="48.242993" longitude="13.044798"
+		timestamp="2014-10-29T14:36:11.000+01:00" id="8778262">
+		<Xfcd value="1" param="dind" />
+		<Xfcd value="2189" param="espd" />
+		<Xfcd value="4" param="fcon" />
+		<Xfcd value="28" param="speed" />
+		<Xfcd value="-3.0" param="stwa" />
+	</Node>
+	<Node name="node" vdop="1.0" hdop="0.8" satelites="11" altitude="354.4"
+		heading="309.1" speed="33.20" latitude="48.243175" longitude="13.044480"
+		timestamp="2014-10-29T14:36:15.000+01:00" id="8778271">
+		<Xfcd value="1" param="brlt" />
+		<Xfcd value="1404" param="espd" />
+		<Xfcd value="2" param="fcon" />
+		<Xfcd value="33" param="speed" />
+		<Xfcd value="12.0" param="stwa" />
+	</Node>
+	<Node name="node" vdop="1.2" hdop="0.9" satelites="8" altitude="354.1"
+		heading="310.4" speed="34.20" latitude="48.243290" longitude="13.044283"
+		timestamp="2014-10-29T14:36:17.000+01:00" id="8778277">
+		<Xfcd value="0" param="brlt" />
+		<Xfcd value="1039" param="espd" />
+		<Xfcd value="0" param="fcon" />
+		<Xfcd value="21" param="speed" />
+		<Xfcd value="5.0" param="stwa" />
+	</Node>
+	<Node name="node" vdop="1.0" hdop="0.8" satelites="11" altitude="353.2"
+		heading="250.0" speed="40.00" latitude="48.243428" longitude="13.043743"
+		timestamp="2014-10-29T14:36:23.000+01:00" id="8778289">
+		<Xfcd value="0" param="dind" />
+		<Xfcd value="5962" param="espd" />
+		<Xfcd value="20" param="fcon" />
+		<Xfcd value="68" param="speed" />
+		<Xfcd value="-7.0" param="stwa" />
+	</Node>
+	<!-- Generator und Getriebe wurde repariert! -->
+	<Node name="node" vdop="1.2" hdop="1.0" satelites="10" altitude="355.2"
+		heading="228.1" speed="85.90" latitude="48.242855" longitude="13.042795"
+		timestamp="2014-10-29T14:36:28.000+01:00" id="8778302">
+		<Xfcd value="1" param="dind" />
+		<Xfcd value="3451" param="espd" />
+		<Xfcd value="27" param="fcon" />
+		<Xfcd value="88" param="speed" />
+		<Xfcd value="0.0" param="stwa" />
+		<Xfcd value="1365" param="delg" />
+	</Node>
+	<Node name="node" vdop="1.0" hdop="0.8" satelites="11" altitude="357.8"
+		heading="234.7" speed="89.30" latitude="48.242445" longitude="13.041987"
+		timestamp="2014-10-29T14:36:31.000+01:00" id="8778311">
+		<Xfcd value="0" param="dind" />
+		<Xfcd value="2309" param="espd" />
+		<Xfcd value="84" param="speed" />
+		<Xfcd value="3.0" param="stwa" />
+	</Node>
+	<Node name="node" vdop="1.0" hdop="0.8" satelites="11" altitude="358.5"
+		heading="236.4" speed="87.50" latitude="48.242318" longitude="13.041707"
+		timestamp="2014-10-29T14:36:32.000+01:00" id="8778315">
+		<Xfcd value="1" param="brlt" />
+		<Xfcd value="2120" param="espd" />
+		<Xfcd value="80" param="speed" />
+		<Xfcd value="0.0" param="stwa" />
+	</Node>
+	<Node name="node" vdop="1.0" hdop="0.8" satelites="11" altitude="359.1"
+		heading="238.1" speed="85.90" latitude="48.242203" longitude="13.041430"
+		timestamp="2014-10-29T14:36:33.000+01:00" id="8778320">
+		<Xfcd value="0" param="brlt" />
+		<Xfcd value="1968" param="espd" />
+		<Xfcd value="74" param="speed" />
+	</Node>
+	<Node name="node" vdop="1.1" hdop="0.9" satelites="10" altitude="363.0"
+		heading="243.8" speed="69.30" latitude="48.241045" longitude="13.038337"
+		timestamp="2014-10-29T14:36:46.000+01:00" id="8778342">
+		<Xfcd value="2" param="dind" />
+		<Xfcd value="1559" param="espd" />
+		<Xfcd value="2" param="fcon" />
+		<Xfcd value="70" param="speed" />
+		<Xfcd value="3.0" param="stwa" />
+	</Node>
+	<Node name="node" vdop="1.0" hdop="0.8" satelites="11" altitude="363.3"
+		heading="245.1" speed="70.70" latitude="48.240892" longitude="13.037862"
+		timestamp="2014-10-29T14:36:48.000+01:00" id="8778349">
+		<Xfcd value="0" param="dind" />
+		<Xfcd value="4503" param="espd" />
+		<Xfcd value="22" param="fcon" />
+		<Xfcd value="77" param="speed" />
+		<Xfcd value="2.0" param="stwa" />
+	</Node>
+	<Node name="node" vdop="1.0" hdop="0.8" satelites="11" altitude="369.9"
+		heading="181.3" speed="84.50" latitude="48.238877" longitude="13.034247"
+		timestamp="2014-10-29T14:37:04.000+01:00" id="8778378">
+		<Xfcd value="1" param="brlt" />
+		<Xfcd value="1728" param="espd" />
+		<Xfcd value="10" param="fcon" />
+		<Xfcd value="35502" param="kmrd" />
+		<Xfcd value="79" param="speed" />
+		<Xfcd value="21.0" param="stwa" />
+		<Xfcd value="5592405" param="dwlg" />
+	</Node>
+	<Node name="node" vdop="1.0" hdop="0.8" satelites="11" altitude="370.4"
+		heading="201.0" speed="80.40" latitude="48.238288" longitude="13.034075"
+		timestamp="2014-10-29T14:37:07.000+01:00" id="8778386">
+		<Xfcd value="0" param="brlt" />
+		<Xfcd value="1731" param="espd" />
+		<Xfcd value="53" param="speed" />
+		<Xfcd value="-1.0" param="stwa" />
+		<Xfcd value="1029" param="wist" />
+	</Node>
+	<Node name="node" vdop="1.0" hdop="0.8" satelites="11" altitude="374.5"
+		heading="197.1" speed="43.70" latitude="48.235563" longitude="13.032483"
+		timestamp="2014-10-29T14:37:33.000+01:00" id="8778431">
+		<Xfcd value="1" param="brlt" />
+		<Xfcd value="1321" param="espd" />
+		<Xfcd value="1" param="fcon" />
+		<Xfcd value="40" param="speed" />
+		<Xfcd value="0.0" param="stwa" />
+	</Node>
+	<Node name="node" vdop="1.0" hdop="0.8" satelites="11" altitude="374.5"
+		heading="198.7" speed="26.30" latitude="48.235143" longitude="13.032285"
+		timestamp="2014-10-29T14:37:38.000+01:00" id="8778441">
+		<Xfcd value="0" param="brlt" />
+		<Xfcd value="782" param="espd" />
+		<Xfcd value="1" param="fcon" />
+		<Xfcd value="8" param="speed" />
+	</Node>
+	<Node name="node" vdop="1.0" hdop="0.8" satelites="11" altitude="374.4"
+		heading="199.3" speed="15.00" latitude="48.235080" longitude="13.032250"
+		timestamp="2014-10-29T14:37:40.000+01:00" id="8778449">
+		<Xfcd value="1" param="brlt" />
+		<Xfcd value="788" param="espd" />
+		<Xfcd value="1" param="fcon" />
+		<Xfcd value="7" param="speed" />
+	</Node>
+	<Node name="node" vdop="1.0" hdop="0.8" satelites="11" altitude="374.4"
+		heading="199.0" speed="7.80" latitude="48.235045" longitude="13.032232"
+		timestamp="2014-10-29T14:37:42.000+01:00" id="8778455">
+		<Xfcd value="0" param="brlt" />
+		<Xfcd value="875" param="espd" />
+		<Xfcd value="1" param="fcon" />
+		<Xfcd value="3" param="speed" />
+		<State value="0" param="move" />
+	</Node>
+	<Node name="node" vdop="1.2" hdop="1.0" satelites="10" altitude="375.7"
+		heading="212.4" speed="21.50" latitude="48.234690" longitude="13.032028"
+		timestamp="2014-10-29T14:37:58.000+01:00" id="8778486">
+		<Xfcd value="2" param="dind" />
+		<Xfcd value="1944" param="espd" />
+		<Xfcd value="3" param="fcon" />
+		<Xfcd value="32" param="speed" />
+		<Xfcd value="32.0" param="stwa" />
+		<State value="1" param="move" />
+	</Node>
+	<Node name="node" vdop="1.0" hdop="0.8" satelites="11" altitude="376.0"
+		heading="230.9" speed="30.60" latitude="48.234598" longitude="13.031880"
+		timestamp="2014-10-29T14:38:00.000+01:00" id="8778492">
+		<Xfcd value="0" param="dind" />
+		<Xfcd value="1846" param="espd" />
+		<Xfcd value="9" param="fcon" />
+		<Xfcd value="42" param="speed" />
+		<Xfcd value="70.0" param="stwa" />
+	</Node>
+	<Node name="node" vdop="1.0" hdop="0.8" satelites="11" altitude="375.0"
+		heading="257.1" speed="63.20" latitude="48.234478" longitude="13.030647"
+		timestamp="2014-10-29T14:38:07.000+01:00" id="8778507">
+		<Xfcd value="2" param="dind" />
+		<Xfcd value="2346" param="espd" />
+		<Xfcd value="11" param="fcon" />
+		<Xfcd value="68" param="speed" />
+		<Xfcd value="1.0" param="stwa" />
+	</Node>
+	<Node name="node" vdop="1.0" hdop="0.8" satelites="11" altitude="374.9"
+		heading="252.4" speed="68.50" latitude="48.234430" longitude="13.030398"
+		timestamp="2014-10-29T14:38:08.000+01:00" id="8778512">
+		<Xfcd value="1" param="brlt" />
+		<Xfcd value="2177" param="espd" />
+		<Xfcd value="66" param="speed" />
+	</Node>
+	<Node name="node" vdop="1.0" hdop="0.8" satelites="11" altitude="374.8"
+		heading="251.1" speed="64.80" latitude="48.234270" longitude="13.029667"
+		timestamp="2014-10-29T14:38:11.000+01:00" id="8778522">
+		<Xfcd value="0" param="brlt" />
+		<Xfcd value="1448" param="espd" />
+		<Xfcd value="27" param="speed" />
+		<Xfcd value="96.0" param="stwa" />
+	</Node>
+	<Node name="node" vdop="1.0" hdop="0.8" satelites="11" altitude="374.9"
+		heading="275.4" speed="33.50" latitude="48.234203" longitude="13.029250"
+		timestamp="2014-10-29T14:38:14.000+01:00" id="8778533">
+		<Xfcd value="0" param="dind" />
+		<Xfcd value="2642" param="espd" />
+		<Xfcd value="2" param="fcon" />
+		<Xfcd value="30" param="speed" />
+		<Xfcd value="17.0" param="stwa" />
+	</Node>
+	<Node name="node" vdop="1.0" hdop="0.8" satelites="11" altitude="373.0"
+		heading="336.8" speed="33.90" latitude="48.234583" longitude="13.027738"
+		timestamp="2014-10-29T14:38:31.000+01:00" id="8778565">
+		<Xfcd value="1" param="brlt" />
+		<Xfcd value="1811" param="espd" />
+		<Xfcd value="2" param="fcon" />
+		<Xfcd value="32" param="speed" />
+		<Xfcd value="0.0" param="stwa" />
+	</Node>
+	<Node name="node" vdop="1.0" hdop="0.8" satelites="11" altitude="375.1"
+		heading="230.9" speed="0.00" latitude="48.234888" longitude="13.027445"
+		timestamp="2014-10-29T14:38:40.000+01:00" id="8778583">
+		<Xfcd value="0" param="espd" />
+		<Xfcd value="1" param="fcon" />
+		<Xfcd value="0" param="speed" />
+		<Xfcd value="15.0" param="stwa" />
+		<Xfcd value="1039" param="wist" />
+		<State value="0" param="move" />
+	</Node>
+	<!-- Fahrer und Beifahrer werfen eine Bananenschale aus dem Fenster -->
+	<Node name="node" vdop="1.0" hdop="0.8" satelites="11" altitude="375.9"
+		heading="230.9" speed="0.00" latitude="48.234888" longitude="13.027447"
+		timestamp="2014-10-29T14:38:46.000+01:00" id="8778598">
+		<Xfcd value="1039" param="wist" />
+	</Node>
+	<!-- Das Schiebedach könnten wir auch mal wieder öffnen -->
+	<Node name="node" vdop="1.0" hdop="0.8" satelites="11" altitude="375.9"
+		heading="230.9" speed="0.00" latitude="48.234888" longitude="13.027447"
+		timestamp="2014-10-29T14:38:57.000+01:00" id="8778631">
+		<Xfcd value="3087" param="wist" />
+	</Node>
+	<Node name="node" vdop="1.0" hdop="0.8" satelites="11" altitude="375.9"
+		heading="230.9" speed="0.00" latitude="48.234888" longitude="13.027447"
+		timestamp="2014-10-29T14:39:01.000+01:00" id="8778641">
+		<Xfcd value="10.0" param="atmp" />
+		<Xfcd value="1" param="dclst" />
+	</Node>
+	<Node name="node" vdop="1.0" hdop="0.8" satelites="11" altitude="375.9"
+		heading="230.9" speed="0.00" latitude="48.234888" longitude="13.027447"
+		timestamp="2014-10-29T14:39:02.000+01:00" id="8778646">
+		<Xfcd value="269" param="dost" />
+	</Node>
+	<Node name="node" vdop="1.0" hdop="0.8" satelites="11" altitude="375.9"
+		heading="230.9" speed="0.00" latitude="48.234888" longitude="13.027447"
+		timestamp="2014-10-29T14:39:06.000+01:00" id="8778654">
+		<Xfcd value="261" param="dost" />
+	</Node>
+	<Node name="node" vdop="1.0" hdop="1.0" satelites="10" altitude="375.9"
+		heading="230.9" speed="0.00" latitude="48.234888" longitude="13.027447"
+		timestamp="2014-10-29T14:39:11.000+01:00" id="8778675">
+	</Node>
+	<!-- Alle Fenster noch schließen -->
+	<Node name="node" vdop="1.0" hdop="0.8" satelites="11" altitude="375.9"
+		heading="230.9" speed="0.00" latitude="48.234888" longitude="13.027447"
+		timestamp="2014-10-29T14:39:21.000+01:00" id="8778697">
+		<Xfcd value="1029" param="wist" />
+	</Node>
+	<Node name="node" vdop="1.0" hdop="1.0" satelites="10" altitude="375.9"
+		heading="230.9" speed="0.00" latitude="48.234888" longitude="13.027447"
+		timestamp="2014-10-29T14:39:29.000+01:00" id="8778714">
+		<Xfcd value="0" param="arcn" />
+		<Xfcd value="5592413" param="dwlg" />
+	</Node>
+	<Node name="node" vdop="1.0" hdop="1.0" satelites="10" altitude="375.9"
+		heading="230.9" speed="0.00" latitude="48.234888" longitude="13.027447"
+		timestamp="2014-10-29T14:39:30.000+01:00" id="8778719">
+		<Xfcd value="5592541" param="dwlg" />
+		<Xfcd value="0" param="ignt" />
+	</Node>
+	<Node name="node" vdop="1.0" hdop="0.8" satelites="11" altitude="375.9"
+		heading="230.9" speed="0.00" latitude="48.234888" longitude="13.027447"
+		timestamp="2014-10-29T14:39:31.000+01:00" id="8778725">
+		<Xfcd value="5592533" param="dwlg" />
+	</Node>
+	<Node name="node" vdop="1.0" hdop="0.8" satelites="11" altitude="375.9"
+		heading="230.9" speed="0.00" latitude="48.234888" longitude="13.027447"
+		timestamp="2014-10-29T14:39:32.000+01:00" id="8778731">
+		<Xfcd value="5592541" param="dwlg" />
+	</Node>
+	<!-- Handbremse rein und aussteigen -->
+	<Node name="node" vdop="1.0" hdop="1.0" satelites="10" altitude="375.9"
+		heading="230.9" speed="0.00" latitude="48.234888" longitude="13.027447"
+		timestamp="2014-10-29T14:39:33.000+01:00" id="8778736">
+		<Xfcd value="5592533" param="dwlg" />
+		<Xfcd value="1" param="hbrk" />
+	</Node>
+	<Node name="node" vdop="1.0" hdop="1.0" satelites="10" altitude="375.9"
+		heading="230.9" speed="0.00" latitude="48.234888" longitude="13.027447"
+		timestamp="2014-10-29T14:39:34.000+01:00" id="8778742">
+		<Xfcd value="0" param="brlt" />
+		<Xfcd value="263" param="dost" />
+		<Xfcd value="5592405" param="dwlg" />
+	</Node>
+	<Node name="node" vdop="1.0" hdop="0.8" satelites="11" altitude="375.9"
+		heading="230.9" speed="0.00" latitude="48.234888" longitude="13.027447"
+		timestamp="2014-10-29T14:39:38.000+01:00" id="8778752">
+		<Xfcd value="261" param="dost" />
+	</Node>
+	<!-- Fahrt zu Ende. Auto abschließen -->
+	<Node name="node" vdop="1.0" hdop="0.8" satelites="11" altitude="375.9"
+		heading="230.9" speed="0.00" latitude="48.234888" longitude="13.027447"
+		timestamp="2014-10-29T14:39:40.000+01:00" id="8778761">
+		<Xfcd value="0" param="dclst" />
+	</Node>
+	<Node name="node" vdop="1.0" hdop="0.8" satelites="11" altitude="375.9"
+		heading="230.9" speed="0.00" latitude="48.234888" longitude="13.027447"
+		timestamp="2014-10-29T14:40:10.000+01:00" id="8778816" />
+	<Node name="node" vdop="1.0" hdop="1.0" satelites="10" altitude="375.9"
+		heading="230.9" speed="0.00" latitude="48.234888" longitude="13.027447"
+		timestamp="2014-10-29T14:40:40.000+01:00" id="8778877" />
+</Track>
